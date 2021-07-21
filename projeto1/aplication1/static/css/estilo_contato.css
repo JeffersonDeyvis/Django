@@ -1,0 +1,27 @@
+body{
+    margin: 2rem;
+    background: rgb(204,92,244);
+    background: linear-gradient(45deg, rgba(204,92,244,1) 0%, rgba(111,159,233,1) 46%, rgba(2,221,191,1) 100%);
+}
+
+.container{
+    padding: 2rem;
+    max-width: 875px;
+    background-color:#6f9fe9;
+    border-radius: 50px;
+    color: black;
+    box-shadow: 5px 5px 15px black;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+.container h1{
+    text-align: center;
+}
+
+.container button{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
